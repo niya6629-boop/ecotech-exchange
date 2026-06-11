@@ -13,8 +13,8 @@ EcoTech Exchange aims to reduce electronic waste (e-waste) by providing a secure
 - [x] Team formation
 - [x] Project assignment
 - [x] Repository creation
-- [ ] Role distribution
-- [ ] Initial planning
+- [x] Role distribution
+- [x] Initial planning
 
 ### Sprint 2 — UI Design in Figma
 - [ ] Secure Authentication Screen
