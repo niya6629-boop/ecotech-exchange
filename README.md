@@ -107,7 +107,7 @@ All contributions should be aligned with the project requirements and approved b
 
 ### Project Team
 
-- [Team Member Name] — UI/UX Designer
+- [Giovanni Barbosa] — UI/UX Designer
 - [Team Member Name] — UI/UX Designer
 - [Team Member Name] — Documentation Specialist
 - [Team Member Name] — Presentation & English Communication
